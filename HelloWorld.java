@@ -3,3 +3,10 @@ public class HelloWorld {
       System.out.println("Hello World");
     }
   }
+
+  // Single line comment 
+
+  /* 
+  Multi-line
+  comment
+  */
