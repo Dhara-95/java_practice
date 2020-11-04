@@ -21,4 +21,4 @@ public class HelloWorld {
 ```
 - ```main()``` method within a class lists the program tasks.
 - ```String[] args``` is a placeholder for information we want to pass into our program.
-- ```println``` is short for “print line” and is used to print the message on the screen (in Terminal).
+- ```println``` is short for “print line” and is used to print the message on the screen (in Terminal). To print to the Terminal run the command ```java HelloWorld.java```.  
