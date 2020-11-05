@@ -8,6 +8,9 @@ Learning Java using the [Codeacedemy 'Learn Java'](https://www.codecademy.com/le
 
 - Java Virtual Machine allows the same code to be run on different operating systems (Windows, Mac or Linux). 
 - Files have a ```.java``` extention. 
+- Can compile a .java file from the terminal with the command ```javac SomeFile.java``` - Compilation helps to catch an error. 
+
+javac Whales.java
 
 ### Syntax
 
