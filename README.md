@@ -28,3 +28,4 @@ public class HelloWorld {
 - Single line comments: ```//``` ; Multi-line comments: ```/*  */```.
 - Semicolons are used to mark the end of a statement, one line of code that performs a single task.
 - Curly braces mark the scope of our classes and methods. There are no semicolons at the end of a curly brace.   
+- When setting a variable, the datatype must be specified e.g. ```int age = 25```, ```String name = "Dhara"```. 
