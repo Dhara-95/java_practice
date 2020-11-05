@@ -9,13 +9,8 @@ Learning Java using the [Codeacedemy 'Learn Java'](https://www.codecademy.com/le
 - Java Virtual Machine allows the same code to be run on different operating systems (Windows, Mac or Linux). 
 - Files have a ```.java``` extention. 
 - Can compile a .java file from the terminal with the command ```javac SomeFile.java``` - Compilation helps to catch an error. 
-- If the file compiles successfully, this command produces an executable class: FileName.class. Executable means we can run this program from the terminal with the command ```java SomeClassName```.
-
-We run the executable with the command:
-
-java Whales
-
-javac Whales.java
+- If the file compiles successfully, this command produces an executable class: SomeFileName.class. Executable means we can run this program from the terminal with the command ```java SomeFileName```.
+- Whitespaces are not essential but important when it comes to code readability. 
 
 ### Syntax
 
