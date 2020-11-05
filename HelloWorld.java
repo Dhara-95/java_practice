@@ -20,6 +20,9 @@ public class HelloWorld {
 	  public static void main(String[] args) {
       String name = "Dhara Patel";
       int yearBorn = 1995;
-	}
+
+      System.out.prntln(name);  -> This will print out Dhara Patel
+      System.out.prntln(yearBorn);  -> This will print out 1995
+  }
 }
   */
