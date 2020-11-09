@@ -11,6 +11,7 @@ Learning Java using the [Codeacedemy 'Learn Java'](https://www.codecademy.com/le
 - Can compile a .java file from the terminal with the command ```javac SomeFile.java``` - Compilation helps to catch an error. 
 - If the file compiles successfully, this command produces an executable class: SomeFileName.class. Executable means we can run this program from the terminal with the command ```java SomeFileName```.
 - Whitespaces are not essential but important when it comes to code readability. 
+- Variable naming should be in camelCase.
 
 ### Syntax
 
