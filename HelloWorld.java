@@ -52,3 +52,22 @@ public class HelloWorld {
 }
 
 */
+
+/*
+  Numerical operations:
+  
+  public class NumericalOperations {
+	  public static void main(String[] args) {   
+		  int zebrasInZoo = 8;
+      int giraffesInZoo = 4;
+    
+      int animalsInZoo = zebrasInZoo + giraffesInZoo;
+      int numZebrasAfterTrade = zebrasInZoo - 2;
+      
+      System.out.println(animalsInZoo);
+      System.out.println(numZebrasAfterTrade);
+	}
+	}
+}
+
+*/
