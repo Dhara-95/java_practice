@@ -31,3 +31,4 @@ public class HelloWorld {
 - When setting a variable, the datatype must be specified e.g. ```int age = 25```, ```String name = "Dhara"```. 
 - ```double``` data types can hold decimals as well as bery large and very small numbers...they are more appropriate than ```int``` in some cases.
 - The ```char``` data type can hold any character, like a letter, space, or punctuation mark - it must be surrouded by single qoutes.
+- Just like in other OOP languages, the ```String``` data type must be surrounded by double quotes e.g. ```String languageName = "Java programming language";```.
