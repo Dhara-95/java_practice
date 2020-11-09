@@ -33,3 +33,4 @@ public class HelloWorld {
 - ```double``` data types can hold decimals as well as bery large and very small numbers...they are more appropriate than ```int``` in some cases.
 - The ```char``` data type can hold any character, like a letter, space, or punctuation mark - it must be surrouded by single qoutes.
 - Just like in other OOP languages, the ```String``` data type must be surrounded by double quotes e.g. ```String languageName = "Java programming language";```.
+- Similarly to Ruby & JavaScript, Java has built-in math operations. 
