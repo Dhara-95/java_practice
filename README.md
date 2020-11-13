@@ -35,3 +35,4 @@ public class HelloWorld {
 - Just like in other OOP languages, the ```String``` data type must be surrounded by double quotes e.g. ```String languageName = "Java programming language";```.
 - Similarly to Ruby & JavaScript, Java has built-in math operations (plus, minus, multiplication, division, modulo etc.).
 - Java also has relational operators for numeric datatypes that make boolean comparisons e.g. <, >, >=, <= ==, !=
+- To test equality with objects, a built-in method called ```.equals()``` is used. 
