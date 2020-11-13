@@ -34,3 +34,4 @@ public class HelloWorld {
 - The ```char``` data type can hold any character, like a letter, space, or punctuation mark - it must be surrouded by single qoutes.
 - Just like in other OOP languages, the ```String``` data type must be surrounded by double quotes e.g. ```String languageName = "Java programming language";```.
 - Similarly to Ruby & JavaScript, Java has built-in math operations (plus, minus, multiplication, division, modulo etc.).
+- Java also has relational operators for numeric datatypes that make boolean comparisons e.g. <, >, >=, <= ==, !=
