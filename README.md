@@ -36,3 +36,10 @@ public class HelloWorld {
 - Similarly to Ruby & JavaScript, Java has built-in math operations (plus, minus, multiplication, division, modulo etc.).
 - Java also has relational operators for numeric datatypes that make boolean comparisons e.g. <, >, >=, <= ==, !=
 - To test equality with objects, a built-in method called ```.equals()``` is used. 
+- string concatentation is the same as Ruby and JS: 
+
+  ```
+  String username = "Dhara Patel";
+  System.out.println("Your username is: " + username);
+  ```
+
