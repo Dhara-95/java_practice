@@ -42,4 +42,3 @@ public class HelloWorld {
   String username = "Dhara Patel";
   System.out.println("Your username is: " + username);
   ```
-

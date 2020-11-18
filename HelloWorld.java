@@ -1,4 +1,4 @@
-public class HelloWorld {
+ public class HelloWorld {
     public static void main(String[] args) {
       System.out.println("Hello World");
       System.out.println("Hello Dhara");
@@ -102,4 +102,71 @@ public class HelloWorld {
     }       
   }
 
+*/
+
+/*
+Classes:
+
+public class Car {
+// scope of Car class starts after curly brace
+ 
+  public static void main(String[] args) {
+    // scope of main() starts after curly brace
+ 
+    // program tasks
+ 
+  }
+  // scope of main() ends after curly brace
+ 
+}
+// scope of Car class ends after curly brace
+
+Constructor: 
+
+public class Car {
+  public Car() {
+  //constructor method starts after curly brace
+ 
+    //instructions for creating a Car instance
+ 
+  }
+  //constructor method ends after curly brace
+ 
+  public static void main(String[] args) {
+ 
+    // program tasks
+
+  
+    // invoke a constructor using 'new', the name, and parentheses: new Car()
+    
+    Car Mercedes = new Car();
+ 
+  }
+}
+
+Constructor Example:
+
+public class Store {
+  // declare instance fields here!
+  
+  
+  // constructor method
+  public Store() {
+    System.out.println("I am inside the constructor method.");
+  }
+  
+  // main method
+  public static void main(String[] args) {
+    System.out.println("This code is inside the main method.");
+    
+    Store lemonadeStand = new Store();
+    
+    System.out.println(lemonadeStand);
+  }
+}
+
+1. Running the program invokes main()
+2. We create an instance so we move from main() to Store()
+3. The code inside Store() runs
+4. When Store() finishes execution, we return to main()
 */
