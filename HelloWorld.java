@@ -165,8 +165,40 @@ public class Store {
   }
 }
 
+The output of the code above is:
+
+Start of the main method.
+I am inside the constructor method.
+Store@2aae9190
+
 1. Running the program invokes main()
 2. We create an instance so we move from main() to Store()
 3. The code inside Store() runs
 4. When Store() finishes execution, we return to main()
+
+Constructor Parameters:
+
+public class Car {
+  String color;
+ 
+  public Car(String carColor) {
+    // assign parameter value to instance field
+    color = carColor;
+  }
+ 
+  public static void main(String[] args) {
+    // parameter value supplied when calling constructor
+    Car ferrari = new Car("red");
+  }
+}
+
+- Above we create an instance, ferrari, in the 'main()'' method with "red" as its color field.
+- We pass the String value "red" to our constructor method call: new Car("red");.
+- The type of the value given to the invocation must match the type declared by the parameter.
+- Inside the constructor, the parameter 'carColor' refers to the value passed in during the invocation: "red". This value is assigned to the instance field 'color'.
+- 'color' has already been declared, so we don’t specify the type during assignment.
+- The object, 'ferrari', holds the state of color as an instance field referencing the value "red".
+- To access the value of this field use the dot operator (.):  
+  objectName.fieldName
+  e.g. System.out.println(ferrari.color);  => will ouput "red"
 */

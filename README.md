@@ -42,3 +42,4 @@ public class HelloWorld {
   String username = "Dhara Patel";
   System.out.println("Your username is: " + username);
   ```
+- Instance variables/fields are called just before the constructor method within the class. Instance fields are available in scope of constructor method. 
