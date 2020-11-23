@@ -43,3 +43,7 @@ public class HelloWorld {
   System.out.println("Your username is: " + username);
   ```
 - Instance variables/fields are called just before the constructor method within the class. Instance fields are available in scope of constructor method. 
+
+### Testing 
+
+- [JUnit](https://junit.org/junit5/) is a widely used Java testing framework, mainly used for unit testing and to improve code quality. 
