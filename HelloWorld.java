@@ -202,3 +202,30 @@ public class Car {
   objectName.fieldName
   e.g. System.out.println(ferrari.color);  => will ouput "red"
 */
+
+/*
+Multiple instance fields:
+
+public class Store {
+  // instance fields
+  String productType;
+  int inventoryCount;
+  double inventoryPrice;
+  
+  // constructor method
+  public Store(String product, int count, double price) {
+    productType = product;
+    int inventoryCount = count;
+    double inventoryPrice = price;
+
+    Store cookieShop = new Store("cookies", 12, 3.75);
+  }
+  
+  // main method
+  public static void main(String[] args) {
+    
+  }
+}
+
+- Ordering matters! Values must be passed into the constructor invocation in the same order that they’re listed in the parameters.
+*/
